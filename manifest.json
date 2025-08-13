@@ -1,0 +1,11 @@
+{
+	"id": "switch-right-sidebar-for-thino",
+	"name": "Switch right sidebar for Thino",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Auto toggle right sidebar when Thino opens/closes.",
+	"author": "Wis_Ocean",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
