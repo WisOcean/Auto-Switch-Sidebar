@@ -32,7 +32,7 @@
 
 1. 在 Obsidian 社区插件中安装并启用 **BRAT** (Beta Reviewers Auto-update Tester)。
 2. 打开 BRAT 设置 → Add Beta plugin。
-3. 输入本仓库的 GitHub 地址：`https://github.com/WisOcean/Switch-right-sidebar-for-Thino`
+3. 输入本仓库的 GitHub 地址：`https://github.com/WisOcean/Auto-Switch-Sidebar`
 4. 点击 Add plugin，返回社区插件列表启用 **Auto Switch Sidebar**。
 
 #### 方法 2：手动安装
